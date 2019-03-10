@@ -1,2 +1,35 @@
 # member-articles
-python articles by mauritian and pymug members
+python articles by mauritian and/or pymug members
+
+
+**AR. J.**
+* [Using Anaconda On Sublime Text (without installing any package)](https://dev.to/abdurrahmaanj/using-anaconda-on-sublime-text-39le)
+* [Using Python Functions As Classes](https://dev.to/abdurrahmaanj/using-python-functions-as-classes-10j0)
+* [Building An OOP Calculator And What It Means To Write A Widget Library](https://dev.to/abdurrahmaanj/building-an-oop-calculator-and-what-it-means-to-write-a-widget-library-4560)
+* [Introduction To Testing By Writing A Simple Maths Lib](https://dev.to/abdurrahmaanj/introduction-to-testing-by-writing-a-simple-maths-lib-10in)
+* [The Zen Of Python Is A Joke And Here Is Why (You Should Not Take It Too Seriously)](https://dev.to/abdurrahmaanj/the-zen-of-python-is-a-joke-and-here-is-why-you-should-not-take-it-too-seriously-508d)
+* [Predicting Divorces Pronounced In Mauritius Using Linear Regression (ML)](https://dev.to/abdurrahmaanj/predicting-divorce-pronounced-in-mauritius-using-linear-regression-ml-4g0o)
+* [Add Superpowers To Your Python Lists Using This Feature](https://dev.to/abdurrahmaanj/add-superpowers-to-your-python-lists-using-this-feature-24nf)
+* [building a lexer in python – a tutorial](https://www.pythonmembers.club/2018/05/01/building-a-lexer-in-python-tutorial/)
+* [processing.py : trails using oop](https://www.pythonmembers.club/2018/04/26/processing-py-trails-using-oop/)
+* [tkinter : tackling import for python 2 and 3](https://www.pythonmembers.club/2018/04/25/tkinter-tackling-import-for-python-2-and-3/)
+* [handling curly braces in string formatting – python](https://www.pythonmembers.club/2018/05/09/handling-curly-braces-in-string-formatting-python/)
+* [home machine learning project : identifying cutlery items](https://www.pythonmembers.club/2018/05/08/identifying-home-cutlery-items/)
+* [matplotlib scatter plot annotate / set text at / label each point](https://www.pythonmembers.club/2018/05/08/matplotlib-scatter-plot-annotate-set-text-at-label-each-point/)
+* [building an indentation analyser in python – a tutorial](https://www.pythonmembers.club/2018/05/04/building-an-indentation-analyser-in-python-tutorial/)
+* [Installing OpenCv on the Pi3 with python3 (and usb webcam)](https://www.pythonmembers.club/2018/06/20/installing-opencv-on-the-pi3-with-python3-and-usb-webcam/)
+* [Raspberry-Pi setup – part 2 : establishing ssh connection](https://www.pythonmembers.club/2018/06/20/raspberry-pi-setup-establishing-ssh-connection/)
+* [Raspberry-Pi setup – part 1 : OS installation](https://www.pythonmembers.club/2018/06/18/raspberry-pi-setup/)
+* [translating location to map coordinates](https://www.pythonmembers.club/2018/06/06/translating-location-to-map-coordinates/)
+* [generating unintelligent random maps on mouse press](https://www.pythonmembers.club/2018/06/01/generating-unintelligent-random-maps/)
+* [game map rendering](https://www.pythonmembers.club/2018/05/29/game-map-rendering/)
+* [polygon drawer implementation (processing.py)](https://www.pythonmembers.club/2018/05/28/lines-around-nodes/)
+* [web mail interface using pi and flask](https://www.pythonmembers.club/2018/07/01/web-mail-interface-using-pi-and-flask/)
+* [calculating distance for four features](https://www.pythonmembers.club/2018/07/22/calculating-distance-for-four-features/)
+* [preparing an excel file for analysis using pandas](https://www.pythonmembers.club/2018/07/22/preparing-an-excel-file-for-analysis-using-pandas/)
+* [removing last columns of excel dataframe using pandas by index](https://www.pythonmembers.club/2018/07/22/removing-last-columns-of-excel-dataframe-using-pandas-by-index/)
+* [Mastering Python’s Regex – part 1 : Basics](https://www.pythonmembers.club/2018/08/03/mastering-pythons-regex-part-1-basics/)
+* [venv usage on windows, activate and deactivate](https://www.pythonmembers.club/2018/08/10/venv-usage-on-windows-activate-and-deactivate/)
+* [how to create your own DSL(Domain Specific Language) in python](https://www.pythonmembers.club/2018/09/03/how-to-create-your-own-dsldomain-specific-language-in-python/)
+* [Reviving Bertrand Russell Through Python](https://www.pythonmembers.club/2018/12/28/reviving-bertrand-russell-through-python/)
+* [Plotting Hotspots in Mauritius with Python and Folium](https://www.pythonmembers.club/2019/01/23/plotting-hotspots-in-mauritius-with-python-and-folium/)
